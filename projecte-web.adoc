@@ -1,0 +1,184 @@
+= Mini Projecte Web de 1r de DAW
+:notitle:
+:author: curs 2025-26
+:revealjs_theme: white
+:imagesdir: ./imatges
+:revealjs_center: true
+:customcss: custom.css
+:title-slide-transition: zoom
+
+[.is-vcentered]
+[background-color="lightgrey"]
+== Tenim un problema
+
+image::problema.png[Problema, size=25%]
+
+[%notitle]
+=== Canvis en l'estada en empresa
+
+El nombre **d'hores d'estada en empresa s'ha vist molt incrementat** amb els nous plans d'estudis.
+
+image::fabrica.png[Pràctiques en Empresa, width:66%]
+
+[%notitle]
+[.columns]
+=== Problemes creats
+
+[.fade-in-then-semi-out]
+[.column]
+--
+S'ha de començar l'estada en empresa a **principis del segon curs** o no s'acabarà
+
+image::novells2.png[no en saben]
+
+--
+
+[.fade-in-then-semi-out%step]
+[.column]
+--
+A primer no es fa **cap mòdul** relacionat amb la programació web 
+
+image::novells1.png[Principi]
+
+--
+
+[background-color="#FFc9c9"]
+[transition=zoom]
+[.center-slide]
+=== El problema
+
+Els alumnes van a les empreses **sense haver fet res** de la formació que l'empresa espera que tinguin
+
+[.stretch]
+image::massacomplicat.png[width="50%"]
+
+
+[background-color="lightgrey"]
+== Què hem intentat fer?
+
+image::solucio.png[Solució]
+
+[%notitle]
+=== Fer un projecte a final de curs
+
+Es va pensar que es podia reduir el problema fent que **abans d'acabar el curs** fessin alguna cosa relacionada amb les webs.
+
+image::calendari2.png[Final de curs]
+
+[%notitle]
+=== Eines
+
+Les eines amb les quals es treballa a primer ja **permeten fer webs i desplegar-les**.
+ 
+[.Strentch]
+image::eines2.png[tecnologies, width=66%]
+
+[transition=zoom]
+[%notitle]
+=== El projecte
+
+Es va preparar un **projecte web** complet, amb l'estructura més habitual.
+
+[.Strentch]
+image::projecte2.png[projecte, width=66%]
+
+[background-color="lightgrey"]
+== Vam detectar un nou problema
+
+image::problema.png[Problema, size=25%]
+
+[%notitle]
+=== Alumnes que no seguien
+
+A mesura que avançava el curs, ens vam adonar que hi havia alumnes que **difícilment passarien a segon**. 
+
+image::esborra.png[width=50%]
+
+[%notitle]
+=== No faran pràctiques
+
+Potser **no tots anirien a fer pràctiques en empreses** a principis del curs vinent
+
+image::quifa2.png[Empresa]
+
+[%notitle]
+=== És millor que repassin
+
+A alguns els seria **més profitós repassar** els mòduls, que no treballar conceptes que no els eren urgents
+
+image::repas2.png[no hi ha pressa]
+
+
+[%stretch]
+[.columns]
+=== Es van fer dos grups:
+
+[.fade-in-then-semi-out]
+[.column]
+--
+Alumnes que **farien el projecte** (tot el temps)
+
+image::siva2.png[]
+--
+
+[%step]
+[.column]
+--
+Alumnes que **farien repàs** (seguint l'horari habitual)
+
+image::nova2.png[]
+
+--
+
+[background-color="lightgrey"]
+== Com ha funcionat?
+
+image::barco2.png[]
+
+[%notitle]
+[background-color="#b2f2bb"]
+[transition=zoom]
+=== S'han mostrat coneixements web
+
+S'han pogut **mostrar alguns coneixements** web als alumnes perquè estiguin més preparats
+
+image::navegar.png[width=66%]
+
+[transition=zoom]
+[%notitle]
+=== Els alumnes motivats
+
+Els alumnes que van fer repàs han estat **molt motivats** 
+
+image::treballamolt.png[width=66%]
+
+[transition=zoom]
+[%notitle]
+=== Tots molt motivats
+
+Alumnes de projecte amb algun mòdul suspès, en les hores del mòdul, **es passaven al grup de repàs**
+
+image::canvis.png[width=66%]
+
+[transition=zoom]
+[%notitle]
+=== Porta molta feina
+
+El repàs ha generat una **important càrrega extra de feina** al professorat
+
+image::profe2.png[Professor, width=40%]
+
+[%notitle]
+[background-color="#FFc9c9"]
+[transition=zoom]
+=== No ha funcionat
+
+Els resultats dels alumnes de repàs **NO han complert les expectatives** que teníem
+
+image::resultat2.png[width=75%]
+
+
+[background-color="lightgrey"]
+== Ho hem de tornar a fer?
+
+image::quefem3.png[width=50%]
