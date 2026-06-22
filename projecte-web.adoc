@@ -135,14 +135,24 @@ image::nova2.png[]
 
 image::barco2.png[]
 
-[%notitle]
-[background-color="#b2f2bb"]
+[.columns.two-col%notitle]
 [transition=zoom]
 === S'han mostrat coneixements web
 
-S'han pogut **mostrar alguns coneixements** web als alumnes perquè estiguin més preparats
+[.column]
+--
+S'han pogut **mostrar alguns coneixements** web als alumnes 
 
-image::navegar.png[width=66%]
+image::navegar.png[]
+--
+
+[%step]
+[.column]
+--
+S'han hagut de **reduir continguts** per adaptar-se al projecte
+
+image::retalla.png[]
+--
 
 [transition=zoom]
 [%notitle]

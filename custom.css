@@ -2,3 +2,23 @@
     top: 50% !important;
     transform: translateY(-50%) !important;
 }
+
+.two-col {
+  display: flex;
+  flex-direction: row;
+}
+.two-col > .slide-content {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.two-col > .slide-content > *:first-child {
+  flex: 1;
+  background-color: #b2f2bb; /* Left column color */
+  padding: 20px;
+}
+.two-col > .slide-content > *:last-child {
+  flex: 1;
+  background-color: #FFc9c9; /* Right column color */
+  padding: 20px;
+}
