@@ -8,7 +8,7 @@
 :title-slide-transition: zoom
 
 [.is-vcentered]
-[background-color="lightgrey"]
+[.bg-blauet]
 == Tenim un problema
 
 image::problema.png[Problema, size=25%]
@@ -42,7 +42,7 @@ image::novells1.png[Principi]
 
 --
 
-[background-color="#FFc9c9"]
+[.bg-vermell]
 [transition=zoom]
 [.center-slide]
 === El problema
@@ -53,7 +53,7 @@ Els alumnes van a les empreses **sense haver fet res** de la formació que l'emp
 image::massacomplicat.png[width="50%"]
 
 
-[background-color="lightgrey"]
+[.bg-blauet]
 == Què hem intentat fer?
 
 image::solucio.png[Solució]
@@ -82,7 +82,7 @@ Es va preparar un **projecte web** complet, amb l'estructura més habitual.
 [.Strentch]
 image::projecte2.png[projecte, width=66%]
 
-[background-color="lightgrey"]
+[.bg-blauet]
 == Vam detectar un nou problema
 
 image::problema.png[Problema, size=25%]
@@ -134,11 +134,11 @@ image::nova2.png[]
 [%notitle]
 === Tots molt motivats
 
-Es permetia als alumnes de projecte amb mòduls suspesos, **passar al grup de repàs** en les hores del mòdul
+Els alumnes de projecte amb mòduls suspesos podien **passar al grup de repàs** en les hores del mòdul
 
 image::canvis.png[width=66%]
 
-[background-color="lightgrey"]
+[.bg-blauet]
 == Com ha funcionat?
 
 image::barco2.png[]
@@ -182,7 +182,7 @@ image::profe2.png[Professor, width=66%]
 --
 
 [%notitle]
-[background-color="#FFc9c9"]
+[.bg-vermell]
 [transition=zoom]
 === No ha funcionat
 
@@ -191,7 +191,7 @@ Els resultats dels alumnes de repàs **NO han complert les expectatives** que te
 image::resultat2.png[width=75%]
 
 
-[background-color="lightgrey"]
+[.bg-blauet]
 == Ho hem de tornar a fer?
 
 image::quefem3.png[width=50%]

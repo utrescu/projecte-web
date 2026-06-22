@@ -3,6 +3,11 @@
     transform: translateY(-50%) !important;
 }
 
+.bg-blauet {
+  background-color: #98bdef !important;
+  color: #000; /* Assegura el color del text */
+}
+
 .bg-verd {
   background-color: #b2f2bb !important; /* Left column color */
   padding: 20px;  
