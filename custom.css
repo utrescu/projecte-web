@@ -3,22 +3,22 @@
     transform: translateY(-50%) !important;
 }
 
-.two-col {
-  display: flex;
-  flex-direction: row;
+.bg-verd {
+  background-color: #b2f2bb !important; /* Left column color */
+  padding: 20px;  
 }
-.two-col > .slide-content {
-  display: flex;
-  flex-direction: row;
-  width: 100%;
-}
-.two-col > .slide-content > *:first-child {
-  flex: 1;
-  background-color: #b2f2bb; /* Left column color */
+
+.bg-vermell {
+  background-color: #FFc9c9 !important; /* Right column color */
   padding: 20px;
 }
-.two-col > .slide-content > *:last-child {
-  flex: 1;
-  background-color: #FFc9c9; /* Right column color */
+
+.bg-groc {
+  background-color: #fff9c4 !important; /* El color que vulguis */
+  padding: 20px; /* Opcional: per a millor espaiat */
+}
+
+.bg-blau {
+  background-color: #e0f7fa !important;
   padding: 20px;
 }

@@ -130,16 +130,24 @@ image::nova2.png[]
 
 --
 
+[transition=zoom]
+[%notitle]
+=== Tots molt motivats
+
+Es permetia als alumnes de projecte amb mòduls suspesos, **passar al grup de repàs** en les hores del mòdul
+
+image::canvis.png[width=66%]
+
 [background-color="lightgrey"]
 == Com ha funcionat?
 
 image::barco2.png[]
 
-[.columns.two-col%notitle]
+[.columns%notitle]
 [transition=zoom]
 === S'han mostrat coneixements web
 
-[.column]
+[.column.bg-verd]
 --
 S'han pogut **mostrar alguns coneixements** web als alumnes 
 
@@ -147,7 +155,7 @@ image::navegar.png[]
 --
 
 [%step]
-[.column]
+[.column.bg-vermell]
 --
 S'han hagut de **reduir continguts** per adaptar-se al projecte
 
@@ -155,28 +163,23 @@ image::retalla.png[]
 --
 
 [transition=zoom]
-[%notitle]
+[.columns%notitle]
 === Els alumnes motivats
 
+[.column.bg-verd]
+--
 Els alumnes que van fer repàs han estat **molt motivats** 
 
-image::treballamolt.png[width=66%]
+image::treballamolt.png[]
+--
 
-[transition=zoom]
-[%notitle]
-=== Tots molt motivats
-
-Alumnes de projecte amb algun mòdul suspès, en les hores del mòdul, **es passaven al grup de repàs**
-
-image::canvis.png[width=66%]
-
-[transition=zoom]
-[%notitle]
-=== Porta molta feina
-
+[%step]
+[.column.bg-vermell]
+--
 El repàs ha generat una **important càrrega extra de feina** al professorat
 
-image::profe2.png[Professor, width=40%]
+image::profe2.png[Professor, width=66%]
+--
 
 [%notitle]
 [background-color="#FFc9c9"]
